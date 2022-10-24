@@ -4,6 +4,7 @@
 
 Using a simple * wildcard works fine, if you in the same directory as the files you want to add:
 
+qsdqsd
 git add *.c
 If you are in a different subdirectory of your repository, then you could use a pathspec with a magic signature, as described in the git glossary, to add all files with .c extension in any directory in your working tree:
 
