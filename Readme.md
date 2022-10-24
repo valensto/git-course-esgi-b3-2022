@@ -10,3 +10,4 @@ If you are in a different subdirectory of your repository, then you could use a 
 
 git add :/*.c
 Any git pathspec starting with : has special meaning. In the short form, the leading colon : is followed by zero or more "magic signature" letters. The magic signature / makes the pattern match from the root of the working tree, even when you are running the command from inside a subdirectory.
+oiqjsdpqls;d
